@@ -4,8 +4,8 @@
 2.- Clonamos el repositorio localmente
 ```console
 git clone <url del repositorio>
-![foto2](capturas/2.png)
 ```
+![foto2](capturas/2.png)
 
 3.- Creamos una rama, la confirmamos y la guardamos
 ```console
