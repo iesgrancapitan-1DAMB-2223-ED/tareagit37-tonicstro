@@ -21,6 +21,7 @@ git commit -m "v1.0"
 ```console
 git remote
 git push origin (nombre de la rama)
+```
 ![foto5](capturas/5.png)
 ![foto6](capturas/6.png)
 
